@@ -1,0 +1,6 @@
+streamlit
+langchain
+erniebot
+faiss-cpu~=1.7.3
+pdfminer.six
+docx2txt
